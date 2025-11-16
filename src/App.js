@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. - DAT DEV - Change 01 - 100%
         </p>
+        <p>TU'S CREATING A LOGIN PAGE - 50%</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>TU 4</p>
       </header>
     </div>
   );
