@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>TU'S CREATING A LOGIN PAGE - 50%</p>
         <p>TU 2 - 50%</p>
+        <p>TU 3 - 80%</p>
         <a
           className="App-link"
           href="https://reactjs.org"
